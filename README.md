@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Prince Gupta – Full Stack Developer<br>Passionate and detail-oriented Full Stack Developer proficient in React.js ⚛️, Python 🐍, Django 🚀,<br> JavaScript 📜, HTML/CSS 🎨, and SQL 🗄️. Experienced in building scalable, user-friendly web<br> applications with clean and maintainable code.<br>Committed to continuous learning 📚, teamwork 🤝, and delivering innovative digital solutions that drive <br>results. Always eager to take on new challenges and explore emerging technologies 🔧✨.
+Hi, I'm Prince Gupta – Full Stack Developer<br>Passionate and detail-oriented Full Stack Developer proficient in React.js ⚛️, Python 🐍, Django 🚀,<br> JavaScript 📜, HTML/CSS 🎨, and SQL Lite🗄️. Experienced in building scalable, user-friendly web<br> applications with clean and maintainable code.<br>Committed to continuous learning 📚, teamwork 🤝, and delivering innovative digital solutions that drive <br>results. Always eager to take on new challenges and explore emerging technologies 🔧✨.
 
 
 ## 🌐 Socials:
